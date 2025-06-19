@@ -36,7 +36,7 @@
   <img align="right" src="/assets/lucasgodebout.jpeg" alt"Lucas Godebout">
   📚 &emsp; Je suis étudiant informatique en deuxième année<br/><br/>
  ❤️ &emsp; J'adore apprendre de nouveaux langages et obtenir des nouvelles compétences !<br/><br/>
- 💬 &emsp; Vous pouvez me contacter [ici](https://linkedin.com/in/kevinniel)
+ 💬 &emsp; Vous pouvez me contacter <a href="https://linkedin.com/in/kevinniel">ici</a>
 
 </p>
   
