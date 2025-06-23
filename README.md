@@ -23,7 +23,7 @@
   <a href="" target="blank">
     <img src="https://img.shields.io/badge/Porfolio-FDF3FE?style=for-the-badge" alt="Lucas Godebout">
   </a>
-  <a href="" target="_blank">
+  <a href="https://linkedin.com/in/lucasgodebout" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge" alt="Linkedin">
   </a>
 </p>
@@ -36,7 +36,7 @@
   <img align="right" src="/assets/lucasgodebout.jpg" width="150" alt"Lucas Godebout">
   📚 &emsp; Je suis étudiant informatique en deuxième année<br/><br/>
  ❤️ &emsp; J'adore apprendre de nouveaux langages et obtenir des nouvelles compétences !<br/><br/>
- 💬 &emsp; Vous pouvez me contacter <a href="https://linkedin.com/in/kevinniel">ici</a>
+ 💬 &emsp; Vous pouvez me contacter <a href="https://linkedin.com/in/lucasgodebout">ici</a>
 
 </p>
   
