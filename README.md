@@ -12,7 +12,7 @@
 
 <p align="center">
   <samp>
-    <a hreg="https://linktr.ee/LucasGodebout"> { Mon Linktree } </a>
+    <a href="https://linktr.ee/LucasGodebout"> { Mon Linktree } </a>
     <br>
     { Je suis un étudiant informatique venant de <b><i>France</i></b> }
     <br>
