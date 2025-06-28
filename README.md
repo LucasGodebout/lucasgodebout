@@ -12,7 +12,7 @@
 
 <p align="center">
   <samp>
-    <a hreg=""> { Mon site } </a>
+    <a hreg="https://linktr.ee/LucasGodebout"> { Mon Linktree } </a>
     <br>
     { Je suis un étudiant informatique venant de <b><i>France</i></b> }
     <br>
@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="" target="blank">
-    <img src="https://img.shields.io/badge/Porfolio-FDF3FE?style=for-the-badge" alt="Lucas Godebout">
+  <a href="https://linktr.ee/LucasGodebout" target="blank">
+    <img src="https://img.shields.io/badge/Linktree-FDF3FE?style=for-the-badge" alt="Linktree">
   </a>
   <a href="https://linkedin.com/in/lucasgodebout" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge" alt="Linkedin">
