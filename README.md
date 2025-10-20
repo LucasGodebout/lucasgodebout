@@ -33,7 +33,7 @@
 # A propos de moi
 
 <p>
-  <img align="right" src="/assets/lucasgodebout.jpg" width="150" alt"Lucas Godebout">
+  <img align="right" src="/assets/lucasgodebout.png" width="150" alt"Lucas Godebout">
   📚 &emsp; Je suis étudiant informatique en deuxième année<br/><br/>
  ❤️ &emsp; J'adore apprendre de nouveaux langages et obtenir des nouvelles compétences !<br/><br/>
  💬 &emsp; Vous pouvez me contacter <a href="https://linkedin.com/in/lucasgodebout">ici</a>
