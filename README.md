@@ -12,7 +12,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://lucas-godebout.mds-angers.yt/portfolio"> { Mon Portfolio } </a>
+    <a href="https://lucasgdbt.fr"> { Mon Portfolio } </a>
     <br>
     { Je suis un étudiant informatique venant de <b><i>France</i></b> }
     <br>
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://lucas-godebout.mds-angers.yt/portfolio" target="blank">
+  <a href="https://lucasgdbt.fr" target="blank">
     <img src="https://img.shields.io/badge/portfolio-FDF3FE?style=for-the-badge" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/lucasgodebout" target="_blank">
